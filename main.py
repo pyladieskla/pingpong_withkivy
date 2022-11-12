@@ -2,7 +2,7 @@ import kivy
 kivy.require('2.1.0')
 
 from kivy.app import App
-from kivy.uix.Label import Label
+from kivy.uix.label import Label
 
 class PongGame(Widget):
 	pass

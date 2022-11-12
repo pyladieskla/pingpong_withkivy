@@ -1,28 +1,13 @@
+
 from kivy.app import App
 from kivy.uix.widget import Widget
 
-
 class PongGame(Widget):
-    pass
-
+	pass
 
 class PongApp(App):
-    def build(self):
-        return PongGame()
-
-
-if __name__ == '__main__':
-    PongApp().run()
-
-
-class PongGame(Widget):
-    pass
-
-
-class PongApp(App):
-    def build(self):
-        return PongGame()
-
+	def build(self):
+		return PongGame()
 
 if __name__ == '__main__':
-    PongApp().run()
+	PongApp().run()

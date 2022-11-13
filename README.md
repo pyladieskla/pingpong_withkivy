@@ -1,1 +1,1 @@
-# A simple mobile application with Kivy
+# A simple mobile game with Kivy
